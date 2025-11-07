@@ -1,16 +1,17 @@
 <?php
 /*
 Plugin Name: No Category Base (WPML)
-Version: 1.3
-Plugin URI: http://infolific.com/technology/software-worth-using/no-category-base-for-wordpress/
+Version: 1.4
+Plugin URI: https://www.digitalme.cc/
 Description: Removes '/category' from your category permalinks. WPML compatible.
-Author: Marios Alexandrou
-Author URI: http://infolific.com/technology/
+Author: DigitalME
+Author URI: https://www.digitalme.cc/
 License: GPLv2 or later
 Text Domain: no-category-base-wpml
 */
 
 /*
+Copyright 2025 DigitalME (email:hello@digitalme.cc)
 Copyright 2015 Marios Alexandrou
 Copyright 2011 Mines (email: hi@mines.io)
 Copyright 2008 Saurabh Gupta (email: saurabh0@gmail.com)
